@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL]()
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/nft-preview-card-component-B_TDaNJosE)
 - Live Site URL: [live site](https://codophile-nft-preview-card.netlify.app/)
 
 ## My process
