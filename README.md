@@ -50,4 +50,4 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@thecodophile](https://www.frontendmentor.io/profile/thecodophile)
-- Twitter - [@thecodophile](https://www.twitter.com/yourusername)
+- Twitter - [@thecodophile](https://www.twitter.com/thecodophile)
